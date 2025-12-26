@@ -1,5 +1,5 @@
-import 'package:dart_week10/staff.dart';
+import 'package:dart_week10/cat.dart';
 
 void main() {
-  showStafInfo();
+  showCat();
 }

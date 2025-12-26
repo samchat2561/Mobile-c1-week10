@@ -1,5 +1,5 @@
-import 'package:dart_week10/cat.dart';
+import 'package:dart_week10/mobile.dart';
 
 void main() {
-  showCat();
+  showMobileInfo();
 }
